@@ -1,0 +1,7 @@
+*.o
+*.a
+*.out
+push_swap
+checker
+.DS_Store
+test/
