@@ -4,7 +4,7 @@
 
 **A sophisticated sorting implementation** featuring hardcoded optimizations for small datasets, chunk-based distribution, cost calculation, and simultaneous rotation optimization.
 
-Built and maintained by **sriee94**.
+Built and maintained by **sriee**.
 
 ---
 
@@ -476,7 +476,7 @@ valgrind --leak-check=full ./push_swap 3 2 1
 
 ## 👤 Author
 
-**sriee94** - [GitHub](https://github.com/sriee94)
+**sriee** - [GitHub](https://github.com/sriee94)
 
 *Built with clean code principles and optimization in mind - 2025*
 
@@ -956,7 +956,7 @@ valgrind --leak-check=full ./push_swap 3 2 1
 
 ## 👤 Auteur
 
-**sriee94** - [GitHub](https://github.com/sriee94)
+**sriee** - [GitHub](https://github.com/sriee94)
 
 *Construit avec des principes de code propre et d'optimisation à l'esprit - 2025*
 
