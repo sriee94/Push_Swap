@@ -1,7 +1,29 @@
+# Fichiers compilés
 *.o
 *.a
 *.out
+*.so
+*.dylib
+
+# Exécutables
 push_swap
 checker
+
+# Fichiers systèmes macOS
 .DS_Store
+._*
+
+# Fichiers Vim/Emacs
+*.swp
+*~
+.*.sw?
+
+# Dossiers de test
 test/
+tests/
+my_tests/
+
+# Autres
+a.out
+.vscode/
+.idea/
